@@ -1,2 +1,3 @@
+Чем это может отличаться от релизной версии? Это открытый исходный код (Open Source). В отличие от готовых сборок (релизов), здесь код опубликован в том виде, в котором он был создан — без предварительной компиляции и изменений. Для получения готового EXE-файла требуется самостоятельная сборка или использование компилятора.
 
-..
+How might this differ from the release version? It is open source. Unlike ready—made builds (releases), the code is published here in the form in which it was created - without pre-compilation and changes. To get a ready-made EXE file, you need to build it yourself or use a compiler.
